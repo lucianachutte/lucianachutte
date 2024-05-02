@@ -1,6 +1,6 @@
 ### 👋 Hola! Soy Luciana Chutte Data Analyst | Data Scientist 📊 apasionada con una sólida experiencia en la aplicación de habilidades analíticas para resolver problemas complejos.
 
-[Data analyst](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5ocjRiOHBia2ZpMXhtNmV3bnpxZXhpNXNubmhzMzEwM2Z5bjlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif)
+!(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5ocjRiOHBia2ZpMXhtNmV3bnpxZXhpNXNubmhzMzEwM2Z5bjlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif)
 
 
 
