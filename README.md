@@ -1,4 +1,4 @@
-#  ¡Hola! Soy Luciana Chutte 👋
+#  ¡Hola! Soy Luciana Chutte 🙋‍♀️
 ### 📊 Data Analyst | Data Scientist  
 ![Análisis de datos](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5ocjRiOHBia2ZpMXhtNmV3bnpxZXhpNXNubmhzMzEwM2Z5bjlsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8RDGogSns9wpOJFzR/giphy.gif)
 
